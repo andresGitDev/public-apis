@@ -19,7 +19,7 @@ Current API entry format:
 Example entry:
 
 ```
-| [NASA](https://api.nasa.gov) | NASA data, including imagery | No | Yes | Yes | [Run in Postman Button]
+| [NASA](https://api.nasa.gov) | NASA data, including imagery | No | Yes | Yes | [Run in Postman Button] |
 ```
 
 \* Currently, the only accepted inputs for the `Auth` field are as follows:
@@ -100,7 +100,7 @@ pull request closed.
 * Please make sure the API name does not end with `API`. *for e.g.*: ❌Gmail API ✔Gmail 
 * Please make sure the API has proper documentation.
 * Please make sure you squash all commits together before opening a pull request. If your pull request requires changes upon review, please be sure to squash all additional commits as well. [This wiki page][squash-link] outlines the squash process.
-* Target your Pull Request to the `master` branch of the `public-apis`
+* Target your Pull Request to the `main` branch of this repository
 
 Once you’ve submitted a pull request, the collaborators can review your proposed changes and decide whether or not to incorporate (pull in) your changes.
 
